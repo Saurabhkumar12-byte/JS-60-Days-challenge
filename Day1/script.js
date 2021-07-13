@@ -11,4 +11,5 @@ btn.addEventListener("click", () => {
   color.style.backgroundColor = colorArr[index];
   button.style.backgroundColor = colorArr[index];
   color.innerHTML = colorArr[index];
+  box.innerHTML = colorArr[index];
 });
