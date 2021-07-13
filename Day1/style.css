@@ -1,0 +1,26 @@
+.container{
+    margin: 50px;
+    text-align: center;
+    font-size: xx-large;
+}
+.box{
+    margin: 69px auto;
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    border-radius: 15px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    
+}
+button{
+    margin: 19px;
+    padding: 7px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    outline: none;
+    color: white;
+    cursor: pointer;
+
+    /* font-weight: bold; */
+
+}
